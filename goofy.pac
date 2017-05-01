@@ -1079,6 +1079,7 @@ var domains = {
   "ifcss.org": 1, 
   "ifjc.org": 1, 
   "ifttt.com": 1, 
+  "ift.tt": 1,
   "ig.com.br": 1, 
   "igfw.net": 1, 
   "ignitedetroit.net": 1, 
